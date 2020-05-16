@@ -1,16 +1,17 @@
 module.exports = {
     title: '@24', // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
     description: '@24的前端记录', // meta 中的描述文字，用于SEO
+    base: '/blog/',
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
         ['link',
-            {rel: 'icon', href: '/ww.png'}
+            {rel: 'icon', href: '/lty.jpg'}
             //浏览器的标签栏的网页图标，第一个'/'会遍历public文件夹的文件
         ],
     ],
     //下面涉及到的md文件和其他文件的路径下一步再详细解释
     themeConfig: {
-        logo: '/ww.png',  //网页顶端导航栏左上角的图标
+        logo: '/lty.jpg',  //网页顶端导航栏左上角的图标
 
         //顶部导航栏
         nav: [

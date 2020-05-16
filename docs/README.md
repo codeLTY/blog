@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /ww.png
+heroImage: /lty.jpg
 heroText: 24的前端记录
 tagline: 一点一滴都是进步!
-actionText: 马上进入 →
+actionText: 升级开始 →
 actionLink: /pages/directory/test1.md
 features:
 - title: 简洁至上
