@@ -43,8 +43,7 @@ module.exports = {
                     collapsable: true, // false为默认展开菜单, 默认值true是折叠,
                     sidebarDepth: 1,    //  设置侧边导航自动提取markdown文件标题的层级，默认1为h2层级
                     children: [
-                        ['test1.md', '子菜单1'],  //菜单名称为'子菜单1'，跳转至/pages/directory/test1.md
-                        ['test3.md', '子菜单2']
+                        ['test1.md','HTML5和HTML4'],  //菜单名称为'子菜单1'，跳转至/pages/directory/test1.md
                     ]
                 },
                 {
@@ -52,7 +51,7 @@ module.exports = {
                     collapsable: true,
                     sidebarDepth: 1,
                     children: [
-                        ['test2.md', '子菜单1']
+                        ['test2.md', '清除浮动方法']
                     ]
                 },
                 {
