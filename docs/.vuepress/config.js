@@ -52,6 +52,7 @@ module.exports = {
                     sidebarDepth: 1,
                     children: [
                         ['test2.md', '清除浮动方法']
+                        ['test3.md', '让一个div水平垂直居中']
                     ]
                 },
                 {
